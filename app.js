@@ -3,3 +3,5 @@ $(function(){
     let pricesBlock = document.querySelector('.prices');
     pricesBlock.style.backgroundColor = 'green';
 });
+
+mmmm
